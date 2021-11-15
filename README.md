@@ -34,6 +34,6 @@ $ python bot.py
 Silahkan buka file cfg.ini lalu isi datanya
 mulai dari user-agent dan cookies
 ```
-- [X] Bitcoin Free [here](https://beerfaucet.io/?ref=13048)
+- [X] Join web [here](https://beerfaucet.io/?ref=13048)
 
 
